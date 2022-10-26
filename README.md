@@ -1,2 +1,2 @@
 # meal-finder
-Searches meals using MealDB API, display ingredients and recipe. #bt2
+Searches meals using MealDB API, displays ingredients and recipe. #bt2
